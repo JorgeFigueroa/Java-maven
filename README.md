@@ -1,3 +1,4 @@
 - mvn clean package
 - mvn clean package –P produccion
+- mvn site
 - java –jar proyecto-with-dependencies.jar
